@@ -1,0 +1,13 @@
+1	Dormammu
+2	Cassandra Nova
+3	Sentinel MK4
+4	Sentinel Prime MK4
+5	Black Widow 2
+6	Hawkeye
+7	Nick Fury Jr
+8	Emma Frost Normal
+9	Emma Frost Diamond
+10	Professor X
+11	Psylocke
+12	Star-Lord
+13	Yondu
