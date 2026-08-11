@@ -1,0 +1,77 @@
+1,Abomination
+2,Adam Warlock
+3,Agent Venom
+4,Amazing Spider-Man
+5,Ancient One
+6,Angel
+7,Angela
+8,Ant-Man (Normal)
+9,Ant-Man (Tiny)
+10,Apocalypse
+11,Archangel
+12,Arnim Zola
+13,Avalanche
+14,Baron Helmut Zemo
+15,Baron Mordo
+16,Baron Strucker
+17,Baron Zemo
+18,Beast
+19,Beta Ray Bill
+20,Bishop
+21,Black Bolt
+22,Black Cat
+23,Black Dwarf
+24,Black Panther
+25,"Black Panther, Chosen of Bast"
+26,Black Swan
+27,Black Widow
+28,"Black Widow, Agent of S.H.I.E.L.D."
+29,Blade
+30,Blue Marvel
+31,"Bob, Agent of Hydra"
+32,Bullseye
+33,Cable
+34,Captain America (Steve Rogers)
+35,Captain America (Sam Wilson)
+36,"Captain America, First Avenger"
+37,Captain Marvel
+38,"Captain Marvel, Cosmic Avenger"
+39,"Captain Marvel, Cosmic Avenger (Binary)"
+40,Carnage
+41,Cassandra Nova
+42,Clea
+43,Colossus
+44,Corvus Glaive
+45,Cosmic Ghost Rider
+46,Crimson Dynamo
+47,Crossbones
+48,"Crossbones, Merciless Merc"
+49,Crystal
+50,Cyclops
+51,Daredevil
+52,Darkstar
+53,Deadpool
+54,"Doc Ock, Sinister Scientist"
+55,Doctor Octopus
+56,Doctor Strange
+57,"Doctor Strange, Sorcerer Supreme"
+58,Doctor Voodoo
+59,Domino
+60,Dormammu
+61,Dracula
+62,Drax the Destroyer
+63,Ebony Maw
+64,Echo
+65,Electro
+66,Elektra
+67,Elsa Bloodstone
+68,Emma Frost
+69,Emma Frost (Diamond)
+70,Enchantress
+71,Exodus
+72,Frankenstein's Monster
+73,Gambit
+74,Gamora
+75,Ghost Rider
+76,Ghost-Spider
+77,Gladiator

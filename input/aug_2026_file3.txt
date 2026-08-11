@@ -1,0 +1,75 @@
+1,"Red Skull, Master of Hydra"
+2,Rescue
+3,Rhino
+4,Rocket Raccoon
+5,Rogue
+6,Ronan the Accuser
+7,Ronin
+8,Sabretooth
+9,"Sabretooth, Apex Predator"
+10,Sandman
+11,Scarlet Spider
+12,Scarlet Witch
+13,Sentinel MK4
+14,Sentinel Prime MK4
+15,Shadow King
+16,Shadowcat
+17,Shadowland Daredevil
+18,Shang-Chi
+19,She-Hulk
+20,Shocker
+21,Shuri
+22,Silk
+23,Silver Sable
+24,Sin
+25,"Skurge, The Executioner"
+26,Spectacular Spider-Man
+27,Spectrum
+28,Spider-Ham
+29,Spider-Man (Miles Morales)
+30,Spider-Man (Peter Parker)
+31,Spider-Man 2099
+32,Spider-Man Noir
+33,Spider-Woman
+34,Squirrel Girl
+35,Star-Lord
+36,"Steve Rogers, Captain America"
+37,Storm
+38,Sunspot
+39,Supergiant
+40,Taskmaster
+41,"Thanos, the Mad Titan"
+42,The Black Widow
+43,The Blob
+44,The Immortal Hulk
+45,The Mighty Thor
+46,The Original Human Torch
+47,The Wrecking Crew
+48,"Thor, Hero of Midgard"
+49,"Thor, Prince of Asgard"
+50,Tigra
+51,Toad
+52,Ulik
+53,Ultimate Spider-Man
+54,Ultron
+55,"Ultron, Metal Tyrant"
+56,Ursa Major
+57,Valkyrie
+58,Valkyrie and Elendil
+59,Venom
+60,Viper
+61,Vision
+62,Vulture
+63,War Machine
+64,Warlock
+65,Warriors Three
+66,Wasp (Normal)
+67,Wasp (Tiny)
+68,Weapon X
+69,Werewolf By Night
+70,"Winter Soldier, Operative"
+71,Winter Soldier
+72,Wolverine
+73,Wong
+74,X-23
+75,Yondu

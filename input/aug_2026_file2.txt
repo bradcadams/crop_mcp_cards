@@ -1,0 +1,77 @@
+1,Gorgon
+2,Green Goblin
+3,Groot
+4,Gwenom
+5,Gwenpool
+6,Hawkeye
+7,"Heimdall, The All-Seeing"
+8,"Hela, Queen of Hel"
+9,Honey Badger
+10,Hood (Normal)
+11,Hood (Possessed)
+12,Hulk
+13,Hulkbuster
+14,Iceman
+15,Invincible Iron Man
+16,Iron Fist
+17,Iron Lad
+18,Iron Man
+19,Iron Monger
+20,Jean Grey
+21,Juggernaut
+22,Kang the Conqueror
+23,Karnak
+24,Killmonger
+25,"Killmonger, Usurper"
+26,King Black Bolt
+27,King T'Challa
+28,Kingpin
+29,Klaw
+30,Kraven the Hunter
+31,Lady Mastermind
+32,Lady Sif
+33,Lizard
+34,Lockjaw
+35,"Logan, The Wolverine"
+36,"Loki, God of Mischief"
+37,"Loki, Prince of Lies"
+38,Luke Cage
+39,Magik
+40,Magneto
+41,Malekith the Accursed
+42,Man-Thing
+43,Maverick
+44,Maximus the Mad
+45,M'Baku
+46,Medusa
+47,"Mephisto, Lord of Temptation"
+48,Mister Sinister
+49,M.O.D.O.K.
+50,M.O.D.O.K. Scientist Supreme
+51,Moon Knight
+52,Moondragon
+53,Ms. Marvel (Normal
+54,Ms. Marvel (Embiggened)
+55,Mysterio
+56,Mystique
+57,"Namor, the Sub-Mariner"
+58,Nebula
+59,Nick Fury
+60,Nick Fury & the Howling Commandos
+61,Nightcrawler
+62,"N'Kantu, the Living Mummy"
+63,Nova
+64,Okoye
+65,Omega Red
+66,Phoenix
+67,Professor X
+68,Prowler
+69,Proxima Midnight
+70,Psylocke
+71,Punisher
+72,Pyro
+73,Quasar
+74,Quicksilver
+75,Red Guardian
+76,Red Skull
+77,"Red Skull, Master of the World"
